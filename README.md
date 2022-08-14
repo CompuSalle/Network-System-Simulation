@@ -24,7 +24,7 @@ Now ping command should work accros routers.
 
 Programe Screenshot
 
-![test](https://github.com/WassemAdil/Network-System-Simulation/blob/main/Program_Screenshot.png)
+![test](https://github.com/CompuSalle/Network-System-Simulation/blob/main/Program_Screenshot.png)
 
 ----------------------------------------------
 
